@@ -1,0 +1,6 @@
+D:\Users\VargasVillalobos\Documents\Progra 3 2015\2015_1_cuatrimestre-progra3_Marc\Clases\Clase 2\Hola Mundo\Hola Mundo\bin\Debug\Hola Mundo.exe.config
+D:\Users\VargasVillalobos\Documents\Progra 3 2015\2015_1_cuatrimestre-progra3_Marc\Clases\Clase 2\Hola Mundo\Hola Mundo\bin\Debug\Hola Mundo.exe
+D:\Users\VargasVillalobos\Documents\Progra 3 2015\2015_1_cuatrimestre-progra3_Marc\Clases\Clase 2\Hola Mundo\Hola Mundo\bin\Debug\Hola Mundo.pdb
+D:\Users\VargasVillalobos\Documents\Progra 3 2015\2015_1_cuatrimestre-progra3_Marc\Clases\Clase 2\Hola Mundo\Hola Mundo\obj\Debug\Hola Mundo.csprojResolveAssemblyReference.cache
+D:\Users\VargasVillalobos\Documents\Progra 3 2015\2015_1_cuatrimestre-progra3_Marc\Clases\Clase 2\Hola Mundo\Hola Mundo\obj\Debug\Hola Mundo.exe
+D:\Users\VargasVillalobos\Documents\Progra 3 2015\2015_1_cuatrimestre-progra3_Marc\Clases\Clase 2\Hola Mundo\Hola Mundo\obj\Debug\Hola Mundo.pdb
